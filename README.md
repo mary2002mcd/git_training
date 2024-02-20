@@ -3,8 +3,6 @@ _Adapted from Nice Reidman's interactive Git tutorial_
 
 ["Learn git concepts, not commands"](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/10b5498d-ec6a-4ff6-a80b-d03376d487cb)
-
 ## Resources
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [Introduction to GitHub course on GitLab](https://lab.github.com/githubtraining/introduction-to-github)
