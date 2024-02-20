@@ -209,10 +209,10 @@ git log
 ```
 
 ## 3 Way Merge: Before
-![merging](./images/before3Waymerge.png "Merging")
+![merging](./images/before3WayMerge.png "Merging")
 
 ## 3 Way Merge: After
-![merging](./images/after3WayMerge.png "Merging")
+![merging](./images/after3Waymerge.png "Merging")
 
 ## 3 Way Merge
 - Create new branch
